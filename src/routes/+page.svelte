@@ -3,6 +3,7 @@
 	import TelNum from '$lib/components/tel_num.svelte';
 	import EstForm from '$lib/components/est_input.svelte';
 	import MainCom from '$lib/components/main_comment.svelte';
+	import ComForm from '$lib/components/com_input.svelte';
 
 	let visible = false;
 	function toggle() {
@@ -10,6 +11,15 @@
 			visible = true;
 		} else {
 			visible = false;
+		}
+	}
+
+	let visible2 = false;
+	function toggle2() {
+		if (visible2 == false) {
+			visible2 = true;
+		} else {
+			visible2 = false;
 		}
 	}
 </script>
@@ -30,7 +40,11 @@
 	{/if}
 
 	<MainCom />
-	<button class="estBtn">&rarr; We would ❤️ for you to leave us a comment</button>
+	<button class="estBtn" on:click={toggle2}>&rarr; We would ❤️ for you to leave us a comment</button>
+	{#if visible2}
+		<ComForm />
+	{/if}
+
 
 	<!-- <div class="commentsDiv">
 		<button class="catBtn">&rarr; Upload Image</button>
@@ -56,7 +70,7 @@
 		border-color: red;
 	}
 
-	.catBtn {
+	/* .catBtn {
 		width: 65%;
 		height: 100px;
 		border-style: solid;
@@ -71,7 +85,7 @@
 
 	.catBtn:hover {
 		border-color: red;
-	}
+	} */
 
 	/* .apptBtn {
 		width: 55%;
