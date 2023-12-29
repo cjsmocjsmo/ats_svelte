@@ -4,15 +4,20 @@
 
 <div class="mainComment">
     <Five />
+	<h3>herman@monster.com</h3>
     <p>This is the main comment the is for the bvest commnet curt 
         has so far. This is the main comment the is for the bvest commnet curt
         has so far. This is the main comment the is for the bvest commnet curt	
         has so far. This is the main comment the is for the bvest commnet curt
     </p>
-    <p>see more comments</p>
+    <a class="moreComs" href="/comout">see more comments</a>
 </div>
 
 <style>
+	.moreComs {
+		color: rgb(3, 3, 121);
+		text-decoration: italic;
+	}
 	.mainComment {
 		border-style: solid;
 		border-width: 2px;

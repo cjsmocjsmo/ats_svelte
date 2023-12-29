@@ -11,12 +11,18 @@
 	</main>
 
 	<footer>
-		<p>Ask about our Veterans Discount! 🇺🇸</p>
-
+		<p> 🇺🇸</p>
+		<p class="flag">Ask about our Veterans Discount!</p>
+		<p> 🇺🇸</p>
 	</footer>
 </div>
 
 <style>
+	.flag {
+		margin-right: 10px;
+		margin-left: 10px;
+	}
+	
 	.app {
 		display: flex;
 		flex-direction: column;
@@ -36,7 +42,7 @@
 
 	footer {
 		display: flex;
-		flex-direction: column;
+		flex-direction: row;
 		justify-content: center;
 		align-items: center;
 		padding: 12px;

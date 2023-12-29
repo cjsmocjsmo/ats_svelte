@@ -9,7 +9,7 @@
     </div>
 </form>
 
-<button>submit</button>
+<button class="submit">submit</button>
 
 <style>
     input {
@@ -32,4 +32,19 @@
 		align-items: center;
 		flex: 0.6;
 	}
+    .submit {
+        width: 175px;
+        height: 50px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: rgb(3, 3, 121);
+        border-radius: 8px;
+        margin: 0.5em;
+        background-color: blue;
+        color: aqua;
+        transition: border-color 0.3s;
+    }
+    .submit:hover {
+        border-color: red;
+    }
 </style>
