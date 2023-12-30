@@ -1,7 +1,3 @@
-<script>
-	import { land_images } from '$lib/img_list2.js';
-	import { port_images } from '$lib/img_list2.js';
-</script>
 
 <svelte:head>
 	<title>Image Gallery</title>
@@ -62,19 +58,6 @@
 			/>
 		</a>
 	</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 	<div class="portDiv">
 		<a href="/portrait/port01">
@@ -147,44 +130,6 @@
 				alt="test1"
 			/>
 		</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	</div>
 </div>
 

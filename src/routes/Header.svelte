@@ -23,7 +23,7 @@
 				<a href="/images">Images</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/video') ? 'page' : undefined}>
-				<a href="/videos">Videos</a>
+				<a href="/videos_page">Videos</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
