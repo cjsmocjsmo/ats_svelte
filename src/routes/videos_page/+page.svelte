@@ -75,7 +75,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=jiOO2a3ybA4" target="_blank">
 				<img
 					class="land"
-					src="https://atsdo.xyz/images/video_webp/back-yard-dead-pine-tree_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/back-yar-dead-pine-tree_thumb.webp"
 					alt="test2"
 				/>
 			</a>
