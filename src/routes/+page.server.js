@@ -1,10 +1,11 @@
+
+
 export const actions = {
   comsubmit: async ({ request }) => {
     const formData = await request.formData();
     const name = formData.get("name")
     const email = formData.get('email');
     const comment = formData.get('comment')
-
     const R = "http://192.168.0.91:9191/addcom/"
     const L = name + "/" + email + "/" + comment
     const U = R + L
@@ -34,7 +35,10 @@ export const actions = {
 
     let estiresp = await request(URL2)
 
-    // Process the form data and perform actions
-    return { success: true };
+    if (estiresp === "Comment inserted into db") {
+      return { success: true };
+    } else {
+      return { success: false };
+    }
   },
 };
