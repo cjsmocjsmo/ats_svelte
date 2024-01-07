@@ -1,17 +1,32 @@
 
 
-<form action="">
+<form method="POST" action="estisubmit">
     <div class="comDiv">
         <input type="text" name="name" id="name" placeholder="Name" />
         <input type="text" name="address" id="address" placeholder="Address" />
+        <input type="text" name="city" id="city" placeholder="City" />
         <input type="text" name="phone" id="phone" placeholder="Phone" />
         <input type="text" name="email" id="email" placeholder="Email" />
+        <input class="ip2" type="text-area" name="comment" id="ip2" placeholder="Describe Problem" />
     </div>
+    <button type="submit" class="submit">submit</button>
 </form>
 
-<button class="submit">submit</button>
+
 
 <style>
+    .ip2 {
+        width: 300px;
+        height: 225px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: rgb(3, 3, 121);
+        border-radius: 8px;
+        margin: 0.5em;
+        background-color: blue;
+        color: aqua;
+        transition: border-color 0.3s;
+    }
     input {
         width: 300px;
         height: 50px;
@@ -33,7 +48,7 @@
 		flex: 0.6;
 	}
     .submit {
-        width: 175px;
+        width: 310px;
         height: 50px;
         border-style: solid;
         border-width: 2px;

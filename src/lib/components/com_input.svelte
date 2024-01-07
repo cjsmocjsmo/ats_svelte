@@ -1,12 +1,13 @@
-<form action="">
+<form method="POST" action="?/comsubmit">
     <div class="comDiv">
         <input class="ip1" type="text" name="name" id="name" placeholder="Name" />
         <input class="ip1" type="text" name="email" id="email" placeholder="Email" />
         <input class="ip2" type="text-area" name="comment" id="comment" placeholder="Comment" />
     </div>
+    <button type="submit" class="submit">submit</button>
 </form>
 
-<button class="submit">submit</button>
+
 
 <style>
     .ip2 {
@@ -43,7 +44,7 @@
 		flex: 0.6;
 	}
     .submit {
-        width: 175px;
+        width: 310px;
         height: 50px;
         border-style: solid;
         border-width: 2px;

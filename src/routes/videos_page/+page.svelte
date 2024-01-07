@@ -17,7 +17,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=MqwMnRDq5Rg" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/cottonwood-day-3_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/cottonwood-day-3_thumb.webp"
 					alt="test1"
 				/></a
 			>
@@ -30,7 +30,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=XsPilBsVEcY" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/cottonwoodremovalday2_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/cottonwoodremovalday2_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -42,7 +42,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=3kY78d8AczE" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/cottonwoodremovalday1_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/cottonwoodremovalday1_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -53,7 +53,7 @@
 		<div class="imgDiv">
 			<img
 				class="land"
-				src="http://192.168.0.74:9191/video_webp/Douglas-Fir-Removal_thumb.webp"
+				src="https://atsdo.xyz/images/video_webp/Douglas-Fir-Removal_thumb.webp"
 				alt="test2"
 			/>
 			<p>Douglas Fir Removal</p>
@@ -63,7 +63,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=D-fbOKDuK3c" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/september-22-2023_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/september-22-2023_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -75,7 +75,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=jiOO2a3ybA4" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/back-yard-dead-pine-tree_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/back-yard-dead-pine-tree_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -87,7 +87,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=nUWrX7pqg68" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/multi-stem-cedar-tree_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/multi-stem-cedar-tree_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -99,7 +99,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=Kr-6KdrMVPk" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/uprootedalder_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/uprootedalder_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -111,7 +111,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=JmVcGGM9_Nc" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/april-27-2023_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/april-27-2023_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -123,7 +123,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=62uaiG4qWV8" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/january-24-2023_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/january-24-2023_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -135,7 +135,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=M4ZGLJk7Cjw" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/dyingwhitepineremoval_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/dyingwhitepineremoval_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -147,7 +147,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=5XRaC8RSXbM" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/douglas-fir-removal_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/douglas-fir-removal_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -159,7 +159,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=IZQymhYK59k" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/snow-bound-hemlock_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/snow-bound-hemlock_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -171,7 +171,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=PHDLlOBqkjw" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/make-it-snow_test_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/make-it-snow_test_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -183,7 +183,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=mfWPIOh30nI" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/we-cut-trees-part1_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/we-cut-trees-part1_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -195,7 +195,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=CVi0d1aepbE" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/big-cedar-removal_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/big-cedar-removal_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -207,7 +207,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=MAhLq6x6jOM" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/tight-spaces_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/tight-spaces_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -219,7 +219,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=9rvT2BEYbf8" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/win-damaged-cedar_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/win-damaged-cedar_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -231,7 +231,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=wI5ZR78-aKM" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/just-getting-started_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/just-getting-started_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -243,7 +243,7 @@
 			<a class="atslink" href="https://www.youtube.com/watch?v=okVkEfmoTTA" target="_blank">
 				<img
 					class="land"
-					src="http://192.168.0.74:9191/video_webp/big-tree-top-removal_thumb.webp"
+					src="https://atsdo.xyz/images/video_webp/big-tree-top-removal_thumb.webp"
 					alt="test2"
 				/>
 			</a>
@@ -257,7 +257,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/IlAXyoT0_uI" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/august132022_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/august132022_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -269,7 +269,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/ldUF1uSs-C0" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/december132023_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/december132023_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -281,7 +281,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/OY-DRbJj7z4" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/easterpin_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/easterpin_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -293,7 +293,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/IIN1L7m1BZc" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/july272022_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/july272022_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -305,7 +305,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/nAwZmu_PVGs" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/july82022_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/july82022_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -317,7 +317,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/9Mq-YzLSq-o" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/june12023_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/june12023_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -329,7 +329,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/EzS2gjWNGJ0" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/logdrop_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/logdrop_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -341,7 +341,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/xFuLlo0rk10" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/nocleanupjobonehemlocktreeinbackyard_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/nocleanupjobonehemlocktreeinbackyard_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -353,7 +353,7 @@
 			<a class="atslink" href="https://www.youtube.com/shorts/jmvoBIxo-v4" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/september222023_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/september222023_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -365,7 +365,7 @@
 			<a href="https://www.youtube.com/shorts/adLBtc5uBwM" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/smallrigout_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/smallrigout_thumb.webp"
 					alt="test3"
 				/>
 			</a>
@@ -377,7 +377,7 @@
 			<a href="https://www.youtube.com/shorts/jEWxCjmNvUU" target="_blank">
 				<img
 					class="shorts"
-					src="http://192.168.0.74:9191/shorts_webp/topout_thumb.webp"
+					src="https://atsdo.xyz/images/shorts_webp/topout_thumb.webp"
 					alt="test3"
 				/>
 			</a>

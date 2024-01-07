@@ -9,7 +9,7 @@
 	<div class="landImg">
 		<img
 			class="land"
-			src="http://192.168.0.74:9191/landscape/20211023_111607.webp"
+			src="https://atsdo.xyz/images/landscape/20211023_111607.webp"
 			alt="Image"
 			aria-hidden="true"
 		/>
