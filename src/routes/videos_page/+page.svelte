@@ -6,12 +6,6 @@
 <div class="text-column">
 	<h1>Video Gallery</h1>
 
-	<h1>
-		<a class="atslink" href="https://www.youtube.com/@wecuttrees3173/featured" target="_blank"
-			>YouTube Channel</a
-		>
-	</h1>
-
 	<div class="vidDiv">
 		<div class="imgDiv">
 			<a class="atslink" href="https://www.youtube.com/watch?v=MqwMnRDq5Rg" target="_blank">
@@ -252,6 +246,13 @@
 			>
 		</div>
 	</div>
+
+	<h1>
+		<a class="atslink" href="https://www.youtube.com/@wecuttrees3173/featured" target="_blank"
+			>Subscribe to our YouTube Channel</a
+		>
+	</h1>
+
 	<div class="vidDiv">
 		<div class="shortsDiv">
 			<a class="atslink" href="https://www.youtube.com/shorts/IlAXyoT0_uI" target="_blank">
@@ -395,7 +396,6 @@
 		flex-wrap: wrap;
 		justify-content: space-evenly;
 		align-items: center;
-		margin-bottom: 2.5em;
 	}
 
 	.imgDiv {
@@ -425,5 +425,9 @@
 	.atslink {
 		text-decoration: none;
 		color: blue;
+	}
+	h1 {
+		text-align: center;
+		margin-bottom: 1.5em;
 	}
 </style>
