@@ -1,5 +1,5 @@
 <script>
-	import MainImg from '$lib/images/main_img.webp';
+	// import MainImg from '$lib/images/main_img.webp';
 </script>
 
 <div class="portDiv">
