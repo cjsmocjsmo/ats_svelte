@@ -1,11 +1,11 @@
 <script>
-    import MainImg from '$lib/images/main_img.webp';
-
+	import MainImg from '$lib/images/main_img.webp';
 </script>
 
 <div class="portDiv">
-    
-    <img class='land' src="data:image/jpeg;base64,UklGRjaFAwBXRUJQVlA4WAoAAAAsAAAAzwcAZAQASUNDUKACAAAAAAKgbGNtcwRAAABtbnRyUkdC
+	<img
+		class="land"
+		src="data:image/jpeg;base64,UklGRjaFAwBXRUJQVlA4WAoAAAAsAAAAzwcAZAQASUNDUKACAAAAAAKgbGNtcwRAAABtbnRyUkdC
     IFhZWiAH5wAMABcAAwATABBhY3NwQVBQTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAA
     AADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1k
     ZXNjAAABIAAAAEBjcHJ0AAABYAAAADZ3dHB0AAABmAAAABRjaGFkAAABrAAAACxyWFlaAAAB2AAA
@@ -4052,50 +4052,47 @@
     ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
     ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
     ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
-    ICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+" alt="test3" />
+    ICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+"
+		alt="test3"
+	/>
 </div>
 
 <style>
-    .portDiv {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        align-items: center;
-        
-    }
+	.portDiv {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+		align-items: center;
+	}
 
-    .land {
-        width: 800px;
-        height: auto;
-        border-radius: 8px;
-        
-    }
+	.land {
+		width: 800px;
+		height: auto;
+		border-radius: 8px;
+	}
 
-    @media screen and (max-width: 8500px) {
-        .land {
-            width: 650px;
-            height: auto;
-            border-radius: 8px;
-            
-        }
-    }
+	@media screen and (max-width: 8500px) {
+		.land {
+			width: 650px;
+			height: auto;
+			border-radius: 8px;
+		}
+	}
 
-    @media screen and (max-width: 650px) {
-        .land {
-            width: 475px;
-            height: auto;
-            border-radius: 8px;
-            
-        }
-    } 
+	@media screen and (max-width: 650px) {
+		.land {
+			width: 475px;
+			height: auto;
+			border-radius: 8px;
+		}
+	}
 
-    @media screen and (max-width: 500px) {
-        .land {
-            width: 350px;
-            height: auto;
-            border-radius: 8px;
-            
-        }
-    }
+	@media screen and (max-width: 500px) {
+		.land {
+			width: 350px;
+			height: auto;
+			border-radius: 8px;
+		}
+	}
 </style>
